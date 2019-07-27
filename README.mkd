@@ -1,0 +1,15 @@
+# Linux_configFiles
+
+As the name suggests this is a repo for some Linux configuration files.
+
+## Description
+
+I've been using Linux for about 6 months and I've finally done it -- I broke my install. I had been warned about this and I thought relatively well prepared. I didn't lose any data, so that was a big relief. I was taking regular timeshift copies on my main computer, but I broke the install on a satelite laptop that I just dick around on and travel with. Trying to restore from a timeshift taken on a different machine (despite matching OS) didn't work so well. A clean install was no problem, but the biggest pain in the ass has been reimplementing the (not so many) customizations I've made. I thought maybe the easyest thing would just be to make a git repo and the next time I break something, I can just clone the config files into the right directory and there it is, done. My main audience is myself, but if you like my config, go ahead and use it. 
+
+## Contents
+
+I'll keep a folder for each distro. Right now, I'm mainly using Mint, and the other distros that I occasionally mess around with don't have much (anything) in the way of customizations. So for now, contents is:
+
+    * Mint19.1
+
+Other distros might get added. Also, you should find a readme in each subfolder with description and contents. 
