@@ -1,0 +1,27 @@
+# bash aliases
+
+## Description
+
+These are bash aliases that I uses. Some are useful. Some are just funny.
+
+For additions to take effect, run 
+
+    $ exec bash 
+
+or reboot.
+
+## Contents
+
+* .bash_aliases
+
+## Location
+
+:  ~/
+
+Note: There should also be
+
+    if [ -f ~/.bash_aliases ]; then
+        . ~/.bash_aliases
+    fi
+
+in the `.bashrc` file. Otherwise, copy the contents of `.bash_aliases` directly into the `.bashrc` file.
