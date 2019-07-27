@@ -1,0 +1,11 @@
+# Linux Mnit 19.1 config files
+
+## Description
+
+THis repo contains congfig files for Linux Mint 19.1
+
+## Contents
+
+I'll do my best to describe the intended location in the file system, the origin, and the customizations to each file in the contents. 
+
+    * Nothing here yet
