@@ -10,3 +10,9 @@ I'll do my best to describe the intended location in the file system, the origin
 
 * Theme_CBlack-Desktop  
 A customization of the CBlack Desktop theme.
+
+
+## See also...
+
+* Keyboard Layout  
+[Wymysorys Pro](https://github.com/BobBorges/Wymysorys_pro_KB) (link to separate repo, layout + confiig files for Mint19.1 included)
