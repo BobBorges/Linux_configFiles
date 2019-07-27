@@ -1,0 +1,15 @@
+# Theme_CBlack-Desktop
+
+This is a customization of the CBlack Cinnamon desktop theme.
+
+## Description
+
+I have only commented out the background color on the panels at top, left and bottom. This effectively makes the panels transparent I keep my clock, battery, wifi and keyboard layout on the top right. The menu is on the left panel, on top. Program icons are in the bottom pannel in the center, BT and Notifications are bottom left. Top panel is always visible; bottom and left auto hide.
+
+## Contents
+
+    * cinnamon.css
+
+## Location
+
+    ~/.themes/CBlack/cinnamon/
