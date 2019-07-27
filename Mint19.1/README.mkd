@@ -6,7 +6,7 @@ THis repo contains congfig files for Linux Mint 19.1
 
 ## Contents
 
-I'll do my best to describe the intended location in the file system, the origin, and the customizations to each file in the contents. 
+I'll do my best to describe the intended location in the file system, the origin, and the customizations to each file in the contents.
 
-    * Theme_CBlack-Desktop 
-        A customization of the CBlack Desktop theme.
+* Theme_CBlack-Desktop  
+A customization of the CBlack Desktop theme.

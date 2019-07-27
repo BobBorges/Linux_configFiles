@@ -8,8 +8,8 @@ I have only commented out the background color on the panels at top, left and bo
 
 ## Contents
 
-    * cinnamon.css
+* cinnamon.css
 
 ## Location
 
-    ~/.themes/CBlack/cinnamon/
+:  ~/.themes/CBlack/cinnamon/

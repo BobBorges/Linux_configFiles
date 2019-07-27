@@ -10,6 +10,6 @@ I've been using Linux for about 6 months and I've finally done it -- I broke my 
 
 I'll keep a folder for each distro. Right now, I'm mainly using Mint, and the other distros that I occasionally mess around with don't have much (anything) in the way of customizations. So for now, contents is:
 
-    * Mint19.1
+* Mint19.1
 
 Other distros might get added. Also, you should find a readme in each subfolder with description and contents. 
